@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetPackComposeUI</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_button">ButtonActivity</string>
+    <string name="title_activity_lazy_coloum">LazyColoumActivity</string>
+    <string name="title_activity_state_managemant">StateManagemantActivity</string>
+    <string name="title_activity_state_with_text_fuild">StateWithTextFuildActivity</string>
+    <string name="add">Add</string>
+</resources>
